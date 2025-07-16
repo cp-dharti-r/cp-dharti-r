@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Dharti Ramoliya 👋
 
-<!--
-**cp-dharti-r/cp-dharti-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Full-Stack Developer** with 4+ years of experience building scalable, modern web and mobile applications. I love working across the stack and solving real-world problems through clean architecture, thoughtful design, and efficient code.
 
-Here are some ideas to get you started:
+### 👩‍💻 Tech Stack I Work With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Golang, Node.js, Python, PHP
+- **Frontend**: Vue.js, Nuxt.js, Next.js, Angular, React Native
+- **Backend**: Laravel, Express, REST APIs
+- **Platforms & Tools**: Firebase, Supabase, AWS, Android Studio, Xcode, VS Code
+- **AI/ML**: OpenAI, Gemini (Google) – Used in production AI coach systems
+
+### 🚀 What I’m Exploring
+
+I'm currently diving deeper into **Generative AI** — exploring practical applications of AI in real-world products, automation tools, and personal productivity. I’ve already worked on integrating AI coaching features into production systems using **OpenAI and Gemini**.
+
+### ✍️ I Write Too
+
+I share my learnings, development tips, and real-world insights through technical blogs.
+
+📚 **Read my blogs**: [medium.com/@cp-dharti-r](https://medium.com/@cp-dharti-r)
+
+### 📂 Projects & Contributions
+
+Most of my open-source projects, learning side projects, blog examples and experiments are here on GitHub.  
+Feel free to explore, fork, and connect!
+
+### 📫 Let’s Connect
+
+Want to collaborate or chat tech?  
+Reach out to me on [LinkedIn](https://www.linkedin.com/in/dharti-ramoliya) or say hi here on GitHub!
+
+---
+
+Thanks for stopping by! 🌱
