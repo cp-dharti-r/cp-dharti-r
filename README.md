@@ -22,14 +22,7 @@ I share my learnings, development tips, and real-world insights through technica
 
 ### 📂 Projects & Contributions
 
-Most of my open-source projects, learning side projects, blog examples and experiments are here on GitHub.  
+Most of my open-source projects, devops practicals, learning side projects, blog examples, and experiments are here on GitHub.  
 Feel free to explore, fork, and connect!
-
-### 📫 Let’s Connect
-
-Want to collaborate or chat tech?  
-Reach out to me on [LinkedIn](https://www.linkedin.com/in/dharti-ramoliya) or say hi here on GitHub!
-
----
 
 Thanks for stopping by! 🌱
