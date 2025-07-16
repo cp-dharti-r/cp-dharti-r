@@ -14,6 +14,13 @@ I'm a **Senior Full-Stack Developer** with 4+ years of experience building scala
 
 I'm currently diving deeper into **Generative AI** — exploring practical applications of AI in real-world products, automation tools, and personal productivity. I’ve already worked on integrating AI coaching features into production systems using **OpenAI and Gemini**.
 
+### 📦 NPM Packages
+
+I also maintain and contribute to npm packages that simplify development and improve project workflows.
+
+- 🧩 **[Vue File Uploader - Frontend](https://www.npmjs.com/package/@canopassoftware/vue-file-upload)**
+- 🧩 **[React File Uploader - Frontend](https://www.npmjs.com/package/@canopassoftware/react-file-upload)**
+
 ### ✍️ I Write Too
 
 I share my learnings, development tips, and real-world insights through technical blogs.
