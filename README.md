@@ -1,6 +1,6 @@
-# Hi, I'm Dharti Ramoliya 👋
+# Hi, There! 👋
 
-I'm a **Senior Full-Stack Developer** with 4+ years of experience building scalable, modern web and mobile applications. I love working across the stack and solving real-world problems through clean architecture, thoughtful design, and efficient code.
+I'm a **Full-Stack Developer** with 4+ years of experience building scalable, modern web and mobile applications. I love working across the stack and solving real-world problems through clean architecture, thoughtful design, and efficient code.
 
 ### 👩‍💻 Tech Stack I Work With
 
